@@ -1,0 +1,20 @@
+body {
+  width: 900px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 10px 30px 30px 30px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  background: #eee;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-family: monospace;
+  box-sizing: border-box;
+  font-size: 14px;
+}
